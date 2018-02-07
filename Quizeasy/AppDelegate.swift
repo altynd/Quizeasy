@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Quizeasy
 //
-//  Created by Mariya Eggensperger on 02/06/2018.
-//  Copyright (c) 2018 Mariya Eggensperger. All rights reserved.
+//  Created by Mariya Eggensperger  on 2/7/18.
+//  Copyright © 2018 Mariya Eggensperger. All rights reserved.
 //
 
 import UIKit
